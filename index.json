@@ -1,0 +1,32 @@
+{
+  "name": "Hentai-One Extension Repo",
+  "badgeLabel": "H1",
+  "signingKey": "debefdf6a48f69a10ed908b5185b111926cf9487f3e17149ca9a2baf10153106",
+  "contact": {
+    "website": "https://github.com/g66199545-ai/mihon-hentai-one"
+  },
+  "extensionList": {
+    "extensions": [
+      {
+        "name": "Hentai-One",
+        "packageName": "eu.kanade.tachiyomi.extension.all.hentaione",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/g66199545-ai/mihon-hentai-one@repo/apk/tachiyomi-all.hentaione-v1.1.0-debug.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/g66199545-ai/mihon-hentai-one@repo/icon/eu.kanade.tachiyomi.extension.all.hentaione.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "2",
+        "versionName": "1.1.0",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "7326071459150356677",
+            "name": "Hentai-One",
+            "language": "all",
+            "homeUrl": "https://hentai-one.com"
+          }
+        ]
+      }
+    ]
+  }
+}
