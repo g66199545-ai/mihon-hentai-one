@@ -11,8 +11,8 @@
         "name": "Hentai-One",
         "packageName": "eu.kanade.tachiyomi.extension.all.hentaione",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/g66199545-ai/mihon-hentai-one@repo/apk/tachiyomi-all.hentaione-v1.1.0-debug.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/g66199545-ai/mihon-hentai-one@repo/icon/eu.kanade.tachiyomi.extension.all.hentaione.png"
+          "apkUrl": "https://raw.githubusercontent.com/g66199545-ai/mihon-hentai-one/repo/apk/tachiyomi-all.hentaione-v1.1.0-debug.apk",
+          "iconUrl": "https://raw.githubusercontent.com/g66199545-ai/mihon-hentai-one/repo/icon/eu.kanade.tachiyomi.extension.all.hentaione.png"
         },
         "extensionLib": "1.6",
         "versionCode": "2",
